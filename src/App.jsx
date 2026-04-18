@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
+import Header from './Components/Header/Header'
 
 function App() {
   
@@ -9,9 +10,9 @@ function App() {
     <>
      
 
-      
+      <Header></Header>
         
-          <h2>Memorable Water Bottle</h2>
+          
           
     </>
     
