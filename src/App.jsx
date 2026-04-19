@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import Header from './Components/Header/Header'
+import Bottles from './Components/Bottles/Bottles'
 
 function App() {
   
@@ -11,6 +12,7 @@ function App() {
      
 
       <Header></Header>
+      <Bottles></Bottles>
         
           
           
